@@ -1,3 +1,5 @@
+![Arif Khan](https://raw.githubusercontent.com/arifkhanGb/arifkhanGb/refs/heads/main/cover%20pic.png)
+
 I build production-ready GenAI applications using LLMs, RAG, and AI agents, backed by strong backend engineering.
 
 With 2+ years of experience as a Software Engineer, I have built scalable backend systems and integrated LLM APIs into real-world applications. My focus is on building AI solutions that are reliable, secure, fast, and ready for production, not just prototypes.
